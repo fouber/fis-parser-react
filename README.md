@@ -23,7 +23,7 @@ A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile react.
     ```
 * write a jsx file
 
-    ```jsx
+    ```javascript
     /** @jsx React.DOM */
     var HelloMessage = React.createClass({
       render: function() {
