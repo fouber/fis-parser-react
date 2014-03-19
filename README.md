@@ -6,7 +6,9 @@ A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile react.
 
 * install this plugin (make sure you have installed [fis](https://github.com/fis-dev/fis) before).
 
+    ```shell
     npm install -g fis-parser-react
+    ```
 
 * create a project
 
