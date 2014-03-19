@@ -1,0 +1,28 @@
+{
+    "name": "fis-parser-react",
+    "version": "0.0.1",
+    "description": "a parser plugin for fis to precompile react",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fouber/fis-parser-react.git"
+    },
+    "keywords": [
+        "fis",
+        "react",
+        "plugin",
+        "parser"
+    ],
+    "author": "fouber <fouber.NET@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fouber/fis-parser-react/issues"
+    },
+    "homepage": "https://github.com/fouber/fis-parser-react",
+    "dependencies" : {
+        "react-tools" : "0.9.0"
+    }
+}
