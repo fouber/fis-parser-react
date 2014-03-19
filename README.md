@@ -17,9 +17,9 @@ A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile react.
 * vi ``fis-conf.js``
 
     ```javascript
-    fis.config.set('project.fileType.text', 'jsx'); //tell fis that *.jsx files are text file.
+    fis.config.set('project.fileType.text', 'jsx'); //*.jsx files are text file.
     fis.config.set('modules.parser.jsx', 'react');  //precompile *.jsx with `fis-parser-react` plugin
-    fis.config.set('roadmap.ext.jsx', 'js');        //tell fis that *.jsx are exactly the same as *.js
+    fis.config.set('roadmap.ext.jsx', 'js');        //*.jsx are exactly treat as *.js
     ```
 * write a jsx file
 
