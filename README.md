@@ -1,6 +1,6 @@
 # fis-parser-react
 
-A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile react.
+A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile [react](http://facebook.github.io/react/).
 
 ##Usage
 
