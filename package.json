@@ -1,6 +1,6 @@
 {
     "name": "fis-parser-react",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "a parser plugin for fis to precompile react",
     "main": "index.js",
     "scripts": {
